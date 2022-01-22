@@ -15,4 +15,4 @@ We Create FiveM scripts and do server development!
 
 ## Discord
 
-Join our [Development Discord](https://discord.com/invite/xgKxUruwCG) 
+Join our [Development Discord](https://discord.com/invite/xgKxUruwCG)
