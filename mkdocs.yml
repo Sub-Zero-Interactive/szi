@@ -50,12 +50,6 @@ plugins:
   - awesome-pages
 
 # Social
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/esx-framework
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/ztzKWAF
 
 # Extensions
 markdown_extensions:
