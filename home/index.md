@@ -4,8 +4,9 @@ title: Index
 
 ### Welcome to Sub-Zero Interactive
 
-> Check out our [Free Scripts](https://github.com/Sub-Zero-Interactive)
-> Check out our [Paid Scripts](https://modit.store/pages/seller-profile?sub-zero-store)
+Check out our [Free Scripts](https://github.com/Sub-Zero-Interactive)
+
+Check out our [Paid Scripts](https://modit.store/pages/seller-profile?sub-zero-store)
 
 ## About
 
