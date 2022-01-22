@@ -11,7 +11,7 @@ edit_uri: ""
 copyright: Copyright &copy; 2022 Sub-Zero-Interactive
 
 # Configuration
-docs_dir: docs
+docs_dir: home
 site_dir: site
 strict: true
 
